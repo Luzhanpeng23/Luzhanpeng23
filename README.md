@@ -70,5 +70,9 @@ I enjoy working across the entire development stack — from crafting intuitive 
 ### Contribution
 
 <p align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luzhanpeng23/Luzhanpeng23/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luzhanpeng23/Luzhanpeng23/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Luzhanpeng23/Luzhanpeng23/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  </picture>
 </p>
